@@ -1,2 +1,2 @@
 # MP3-Player
-Membuat GUI untuk aplikasi pemutar music sederhana
+<h1>Membuat GUI untuk aplikasi pemutar music sederhana</h1>
