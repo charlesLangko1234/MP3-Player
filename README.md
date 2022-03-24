@@ -24,7 +24,7 @@
   <li><a href="https://www.pygame.org/docs/">Pygame</a></li>
   <li><a>time</a></li>
   <li><a href="https://www.delftstack.com/howto/python/python-play-mp3/">MP3</a></li>
-</li>
+</ul>
 
 ## Setup Awal
 <div id="setup"></div>
