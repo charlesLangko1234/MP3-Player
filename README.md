@@ -5,9 +5,17 @@
 
 <ul>
   <li><a href="#cara">Cara Penggunaannya</a></li>
-  <li><a>Package</a></li>
-  <li><a>Setup awal</a></li>
+  <li><a href="#package">Package</a></li>
+  <li><a href="setup">Setup awal</a></li>
 </ul>  
 
 ## Cara Penggunaan
 <div id="cara"></div>
+
+
+## Package
+<div id="package"></div>
+
+
+## Setup Awal
+<div id="setup"></div>
