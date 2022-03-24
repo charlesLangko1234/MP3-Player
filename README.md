@@ -13,7 +13,8 @@
 <div id="cara"></div>
 
 <img src="https://github.com/charlesLangko1234/MP3-Player/blob/main/Image/GUI1.png" alt="Rangkaian"/>
-
+  Tampilan utama dari aplikasi pemutar musik yang dibuat adalah seperti pada gambar di atas. Tampilan ini berfungsi untuk menjalankan fungsi pemutaran musik, penambahan musik, mengubah volume musik, dan mempercepat atau memperlambat musik. Kotak hitam yang berada pada tengah tampilan utama, berfungsi untuk menampilkan list musik yang sudah ditambahkan dalam aplikasi. Tampilan yang dibuat masih sederhana, dan juga masih perlu pengembangan pada beberapa bagian lagi agar menjadi lebih menarik.
+ 
 
 ## Package
 <div id="package"></div>
