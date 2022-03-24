@@ -28,3 +28,15 @@
 
 ## Setup Awal
 <div id="setup"></div>
+
+Sebelum menggunakan code, install terlebih dahulu package diatas dengan code berikut :
+<pre>
+$ pip install tkinter
+$ pip install pygame
+$ pip install mutagen
+</pre>
+
+Setelah itu, ubah lah soruce code berikut dengan penyimpanan yang telah kalian buat :
+<pre>
+song = f'D:/Coding/Python/Tkinter/Song/{song}'
+</pre>
