@@ -12,7 +12,7 @@
 ## Cara Penggunaan
 <div id="cara"></div>
 
-<img src="https://github.com/charlesLangko1234/MP3-Player/tree/main/Image/GUI1.png" alt="Rangkaian"/>
+<img src="https://github.com/charlesLangko1234/MP3-Player/blob/main/Image/GUI1.png" alt="Rangkaian"/>
 
 
 ## Package
